@@ -26,4 +26,14 @@
 	"uniques": "[+5]% Strength bonus for [Ranged Water] [Melee Water] units within [2] tiles",
 		"cost": 90
 		"movement": 2
+	
+	"name": "spec ops",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 55,
+		"cost": 650,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory"] [Withdraws before melee combat],
+		"attackSound": "shot"
 }
