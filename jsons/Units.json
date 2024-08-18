@@ -48,4 +48,10 @@
         "movementType": "Land",
 	"movement": 2,
 	"uniques":  "Can transform to [airbase]"
+
+		"name": "canal builder"
+        "name": "Civilian",
+        "movementType": "Land",
+	"movement": 2,
+	"uniques":  ""Can instantly construct a [] improvement""
 }
