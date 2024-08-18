@@ -53,5 +53,5 @@
         "name": "Civilian",
         "movementType": "Land",
 	"movement": 2,
-	"uniques":  ""Can instantly construct a [] improvement""
+	"uniques":  ""Can instantly construct a [Canal] improvement""
 }
