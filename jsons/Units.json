@@ -34,6 +34,6 @@
 		"cost": 650,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory"] ["Withdraws before melee combat"] ["Unable to capture cities"] ["Invisible to non-adjacent units"] ["May enter foreign tiles without open borders"]},
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory"] ["Withdraws before melee combat"] ["Unable to capture cities"] ["Invisible to non-adjacent units"] ["May enter foreign tiles without open borders"],
 		"attackSound": "shot"
 }
