@@ -5,7 +5,14 @@
 	"uniques": "[+5]% Strength bonus for [Melee] units within [1] tiles",
 		"cost": 90
 		"movement": 2
-
+	
+	"name": "cavalry officer",
+		"unitType": "Civilian",
+		"requiredTech": "Military Science",
+	"uniques": "[+5]% Strength bonus for [Mounted] units within [2] tiles",
+		"cost": 90
+		"movement": 2
+	
 	"name": "Artillery officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
