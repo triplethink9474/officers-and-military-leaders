@@ -30,7 +30,7 @@
 	"name": "spec ops",
 		"unitType": "Gunpowder",
 		"movement": 3,
-		"strength": 55,
+		"strength": 35,
 		"cost": 650,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
