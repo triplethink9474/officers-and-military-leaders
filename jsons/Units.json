@@ -42,4 +42,10 @@
         "movementType": "Land",
 	"movement": 0,
 	"uniques":  "Can carry [4] [Bomber] [Fighter] units"
+
+	"name": "airbase builder"
+        "name": "Civilian",
+        "movementType": "Land",
+	"movement": 2,
+	"uniques":  "Can transform to [airbase]"
 }
