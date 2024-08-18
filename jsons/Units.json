@@ -1,7 +1,8 @@
 {
 		"name": "feild officer",
 		"unitType": "Civilian",
-		"uniques": "[+5]% Strength bonus for [Melee] units within [2] tiles",
+		"requiredTech": "Military Science",
+	"uniques": "[+5]% Strength bonus for [Melee] units within [2] tiles",
 		"cost": 90
 		"movement": 2
 }
