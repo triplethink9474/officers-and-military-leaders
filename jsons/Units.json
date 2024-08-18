@@ -36,4 +36,10 @@
 		"promotions": ["Amphibious"],
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory"] ["Withdraws before melee combat"] ["Unable to capture cities"] ["Invisible to non-adjacent units"] ["May enter foreign tiles without open borders"],
 		"attackSound": "shot"
+       
+	"name": "airbase"
+        "name": "Civilian",
+        "movementType": "Land",
+	"movement": 0,
+	"uniques":  "Can carry [4] ["Bomber"] ["Fighter"] units"
 }
