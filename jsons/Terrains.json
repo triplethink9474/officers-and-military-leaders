@@ -585,5 +585,17 @@
 			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game"],
 		"weight": 10
 	}
+	{
+		"name": "Canal",
+		"type": "Water",
+		"gold": 1,
+		"RGB": [133, 212, 236],
+		"uniques": [
+			"Fresh water",
+			"Doesn't generate naturally",
+		],
+
+		]
+	},
 */
 ]
