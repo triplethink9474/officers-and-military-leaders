@@ -11,7 +11,7 @@
 		"requiredTech": "Military Science",
 	"uniques": "[+5]% Strength bonus for [Mounted] units within [2] tiles",
 		"cost": 90
-		"movement": 2
+		"movement": 4
 	
 	"name": "Artillery officer",
 		"unitType": "Civilian",
