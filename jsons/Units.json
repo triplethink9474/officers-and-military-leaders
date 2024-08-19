@@ -41,7 +41,7 @@
         "name": "Civilian",
         "movementType": "Land",
 	"movement": 0,
-	"uniques":  "Can carry [4] [Bomber] [Fighter] units"
+	"uniques":  ["Can carry [4] [Bomber] [Fighter] units"] ["Unbuildable"] ["Cannot be purchased"]
 
 	"name": "airbase builder"
         "name": "Civilian",
