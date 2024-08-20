@@ -1,7 +1,1 @@
-	{
-		"name": "Monument",
-		"happiness": -4,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"uniques": ["Requires at least [6] population"]
-	}
+
