@@ -47,17 +47,45 @@
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 2,
+	"cost": 60,
 	"uniques":  "Can transform to [airbase]"
 
 	"name": "canal builder"
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 2,
+	"cost": 60,
 	"uniques":  "Can instantly construct a [Canal] improvement"
 
         "name": "Civilian militia",
         "unitType": "Sword",
 	"strength": 15
-	"movement": 2,
+	"cost": 20,
+	"movement": 1,
 	"uniques": "Consumes [1] [population]"
+
+	{
+		"name": "Great War shock Infantry",
+		"unitType": "Gunpowder",
+		"movement": 5,
+		"strength": 60,
+		"cost": 360,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
+
+	{
+		"name": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 75,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"attackSound": "shot"
+	},
+
 }
