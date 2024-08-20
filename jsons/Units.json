@@ -80,6 +80,21 @@
 	},
 
 	{
+		"name": "Sturmtruppen",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Germany",
+		"replaces": "Great War shock Infantry",
+		"movement": 3,
+		"strength": 65,
+		"cost": 360,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+		"uniques": ["All tiles cost 1 movement"] ["[+30]% to Flank Attack bonuses"] ["[2] additional attacks per turn"]
+	},
+
+	{
 		"name": "Marine",
 		"unitType": "Gunpowder",
 		"movement": 2,
