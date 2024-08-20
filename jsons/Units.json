@@ -5,29 +5,29 @@
 	"uniques": "[+5]% Strength bonus for [Melee] units within [1] tiles",
 		"cost": 90
 		"movement": 2
-	
-	"name": "cavalry officer",
+},
+{	"name": "cavalry officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
 	"uniques": "[+5]% Strength bonus for [Mounted] units within [2] tiles",
 		"cost": 90
 		"movement": 4
-	
-	"name": "Artillery officer",
+},
+{	"name": "Artillery officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
 	"uniques": "[+5]% Strength bonus for [Siege] units within [2] tiles",
 		"cost": 90
 		"movement": 2
-
-		"name": "naval officer",
+},
+{		"name": "naval officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
 	"uniques": "[+5]% Strength bonus for [Ranged Water] [Melee Water] units within [2] tiles",
 		"cost": 90
 		"movement": 2
-	
-	"name": "spec ops",
+},	
+{	"name": "spec ops",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 35,
@@ -36,34 +36,34 @@
 		"promotions": ["Amphibious"],
 		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory"] ["Withdraws before melee combat"] ["Unable to capture cities"] ["Invisible to non-adjacent units"] ["May enter foreign tiles without open borders"],
 		"attackSound": "shot"
-       
-	"name": "airbase"
+}      
+{	"name": "airbase"
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 0,
 	"uniques":  ["Can carry [4] [Bomber] [Fighter] units"] ["Unbuildable"] ["Cannot be purchased"]
-
-	"name": "airbase builder"
+},	
+{	"name": "airbase builder"
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 2,
 	"cost": 60,
 	"uniques":  "Can transform to [airbase]"
-
-	"name": "canal builder"
+},
+{	"name": "canal builder"
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 2,
 	"cost": 60,
 	"uniques":  "Can instantly construct a [Canal] improvement"
-
-        "name": "Civilian militia",
+},
+  {      "name": "Civilian militia",
         "unitType": "Sword",
 	"strength": 15
 	"cost": 20,
 	"movement": 1,
 	"uniques": "Consumes [1] [population]"
-
+  },
 	{
 		"name": "Great War shock Infantry",
 		"unitType": "Gunpowder",
