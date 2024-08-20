@@ -76,6 +76,9 @@
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
+		"uniques": ["All tiles cost 1 movement"] ["[+30]% to Flank Attack bonuses"] ["[2] additional attacks per turn"]
+
+
 	},
 
 	{
