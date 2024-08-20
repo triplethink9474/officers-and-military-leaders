@@ -105,5 +105,18 @@
 		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	},
+{	"name": "nuclear silo"
+        "unitType": "Civilian",
+        "movementType": "Land",
+	"movement": 0,
+	"uniques":  ["Can carry [3] [nuclear] units"] ["Unbuildable"] ["Cannot be purchased"] ["Invisible to non-adjacent units"]
+},	
+{	"name": "silo builder"
+        "unitType": "Civilian",
+        "movementType": "Land",
+	"movement": 2,
+	"cost": 200,
+	"uniques":  "Can transform to [nuclear silo]"
+},
 
 }
