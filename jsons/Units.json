@@ -62,8 +62,8 @@
   {      "name": "levy",
         "unitType": "Sword",
 	"requiredTech": "Civil Service",
-	"strength": 4
-	"cost": 20,
+	"strength": 6
+	"cost": 1,
 	"movement": 1,
 	"uniques": "Consumes [1] [population]"
   },
