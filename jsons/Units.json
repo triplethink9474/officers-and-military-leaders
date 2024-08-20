@@ -59,9 +59,10 @@
 	"cost": 60,
 	"uniques":  "Can instantly construct a [Canal] improvement"
 },
-  {      "name": "Civilian militia",
+  {      "name": "levy",
         "unitType": "Sword",
-	"strength": 15
+	"requiredTech": "Civil Service",
+	"strength": 4
 	"cost": 20,
 	"movement": 1,
 	"uniques": "Consumes [1] [population]"
