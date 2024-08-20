@@ -69,14 +69,14 @@
 	{
 		"name": "Great War shock Infantry",
 		"unitType": "Gunpowder",
-		"movement": 5,
+		"movement": 3,
 		"strength": 60,
 		"cost": 360,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
-		"uniques": ["All tiles cost 1 movement"] ["[+30]% to Flank Attack bonuses"] ["[2] additional attacks per turn"]
+		"uniques": ["All tiles cost 1 movement"] ["[+30]% to Flank Attack bonuses"] ["[1] additional attacks per turn"]
 	},
 
 	{
