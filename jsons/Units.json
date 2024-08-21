@@ -110,7 +110,7 @@
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 0,
-	"uniques":  ["Can carry [3] [nuclear] units"] ["Unbuildable"] ["Cannot be purchased"] ["Invisible to non-adjacent units"]
+	"uniques":  ["Can carry [3] [Missile] units"] ["Unbuildable"] ["Cannot be purchased"] ["Invisible to non-adjacent units"]
 },	
 {	"name": "silo builder"
         "unitType": "Civilian",
