@@ -21,8 +21,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tropican pride",
-	"uniques": [""[+50]% spy effectiveness [in all cities]" "settler Unbuildable Cannot be purchased" ]
 		"cities": ["tropico","El Presidenteville"],
-        "spyNames": ["Penultimo", "bob", "Lucien", "dave", "Augustine"]
+        "spyNames": ["Penultimo"]
     },
 ]
