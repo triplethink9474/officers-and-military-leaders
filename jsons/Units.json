@@ -4,28 +4,29 @@
 		"name": "feild officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
-	"uniques": "[+5]% Strength bonus for [Melee] units within [1] tiles",
+	"uniques": "[+15]% Strength bonus for [Melee] units within [1] tiles",
 		"cost": 90
 		"movement": 2
 },
 {	"name": "cavalry officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
-	"uniques": "[+5]% Strength bonus for [Mounted] units within [2] tiles",
+	"uniques": "[+15]% Strength bonus for [Mounted] units within [2] tiles",
 		"cost": 90
 		"movement": 4
 },
 {	"name": "Artillery officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
-	"uniques": "[+5]% Strength bonus for [Siege] units within [2] tiles",
+	"uniques": "[+15]% Strength bonus for [Siege] units within [2] tiles",
 		"cost": 90
 		"movement": 2
 },
 {		"name": "naval officer",
 		"unitType": "Civilian",
+	         "unitType": "Civilian Water",
 		"requiredTech": "Military Science",
-	"uniques": "[+5]% Strength bonus for [Ranged Water] [Melee Water] units within [2] tiles",
+	"uniques": "[+15]% Strength bonus for [Ranged Water] [Melee Water] units within [2] tiles",
 		"cost": 90
 		"movement": 2
 },	
