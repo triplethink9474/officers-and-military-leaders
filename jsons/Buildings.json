@@ -1,1 +1,9 @@
 
+	{
+		"name": "tropican ability",
+    "uniqueTo": "Tropico",
+"[+75]% spy effectiveness [in all cities]"
+"[-33]% Culture cost of adopting new Policies"
+"cost": 1,
+	"uniques": ["Destroyed when the city is captured"]
+	},
