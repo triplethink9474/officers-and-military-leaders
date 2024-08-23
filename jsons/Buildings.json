@@ -7,3 +7,10 @@
 "cost": 1,
 	"uniques": ["Destroyed when the city is captured"]
 	},
+
+	{
+		"name": "IM THE BEST",
+    "uniqueTo": "Tropico",
+"cost": 1,
+	"uniques": ["Triggers the following global alert: [EL PRESIDENTE OF TROPICO IS THE BEST]"]
+	},
