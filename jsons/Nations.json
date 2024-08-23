@@ -1,1 +1,28 @@
 
+	{
+		"name": "Tropico",
+		"leaderName": "El Presidente",
+		"adjective": ["Tropican"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "good luck",
+        "startIntroPart2": "",
+
+        "declaringWar": "el presidente doesnt like you so you must persish",
+		"attacked": "not a worry",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Welcome.",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "el presidente has offered you this exceptional proposition.",
+
+        "outerColor": [ 38, 98, 255],
+        "innerColor": [239,236,148],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Tropican pride",
+	"uniques": [""[+50]% spy effectiveness [in all cities]" "settler Unbuildable Cannot be purchased" ]
+		"cities": ["tropico","El Presidenteville"],
+        "spyNames": ["Penultimo", "bob", "Lucien", "dave", "Augustine"]
+    },
+]
