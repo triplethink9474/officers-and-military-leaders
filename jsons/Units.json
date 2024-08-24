@@ -1,7 +1,8 @@
 {
 {
-		"name": "tropican Settler (AKA the fact they can't train settlers)",
+		"name": "tropican Settler (AKA the fact they can't train build cities)",
 		"unitType": "Civilian",
+	     "replaces": "Settler"
 	         "uniqueTo": "Tropico",
 		"movement": 2,
 		"cost": 106,
