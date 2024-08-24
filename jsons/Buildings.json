@@ -26,8 +26,8 @@
 	{
 		"name": "Call Militiamen",
 		"Population": -1
-		"requiredTech": "Civil Service",
-		"uniques": ["Gain 3 free [] [in this city]"],
+		"requiredTech": "Military Science",
+		"uniques": ["Gain 3 free [Militiamen] [in this city]"],
 	},
 
 	{
