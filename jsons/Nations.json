@@ -15,6 +15,8 @@
 		"neutralHello": "Hello.",
 		"hateHello": "It's you.",
 		"tradeRequest": "el presidente has offered you this exceptional proposition.",
+		"uniques" ["[+35]% Production when constructing [All] wonders [in all cities]"],
+
 
         "outerColor": [ 38, 98, 255],
         "innerColor": [239,236,148],
