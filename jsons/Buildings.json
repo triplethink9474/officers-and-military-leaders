@@ -31,8 +31,8 @@
 	},
 
 	{
-		"name": "draft levies",
+		"name": "conscript conscripts",
 		"Population": -1
 		"requiredTech": "Civil Service",
-		"uniques": ["Gain 3 free [Levies] [in this city]"],
+		"uniques": ["Gain 3 free [conscripts] [in this city]"],
 	},
