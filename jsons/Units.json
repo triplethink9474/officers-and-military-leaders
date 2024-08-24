@@ -75,7 +75,7 @@
 	"requiredTech": "Civil Service",
 	"attackSound": "metalhit"
 	"strength": 6
-	"cost": 1,
+	"cost": 5,
 	"movement": 1,
 	"uniques": "Consumes [1] [population]"
   },
@@ -136,7 +136,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 15,
-		"cost": 40,
+		"cost": 5,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Military Science",
 		"attackSound": "shot"
@@ -147,7 +147,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 20,
-		"cost": 50,
+		"cost": 5,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Radio",
 		"attackSound": "shot"
