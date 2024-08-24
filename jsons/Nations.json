@@ -16,7 +16,7 @@
 		"hateHello": "It's you.",
 		"tradeRequest": "el presidente has offered you this exceptional proposition.",
 		"uniques" ["[+35]% Production when constructing [All] wonders [in all cities]"],
-"cities": ["Tropico","Other Tropico","new other Tropico"],
+"cities": ["Tropico","Other Tropico","Other other Tropico","Other Other Other Tropico"],
 
         "outerColor": [ 38, 98, 255],
         "innerColor": [239,236,148],
