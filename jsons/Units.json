@@ -167,7 +167,6 @@
                 "upgradesTo": "Great War Infantry",
                 "attackSound": "shot"
         },
-
 {
 		"name": "Field Artillery",
 		"unitType": "Siege",
@@ -180,5 +179,5 @@
 		"uniques": ["Never appears as a Barbarian unit",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
-		},
+		}
 		]
