@@ -33,6 +33,6 @@
 	{
 		"name": "conscript conscripts",
 		"Population": -1
-		"requiredTech": "Civil Service",
+		"requiredTech": "Military Science",
 		"uniques": ["Gain 3 free [conscripts] [in this city]"],
 	},
