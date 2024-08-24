@@ -167,4 +167,18 @@
                 "upgradesTo": "Great War Infantry",
                 "attackSound": "shot"
         },
+	//FINISH ME
+{
+		"name": "Field Artillery",
+		"unitType": "Ranged Gunpowder",
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 90,
+		"cost": 425,
+		"requiredTech": "Robotics",
+		"uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Infantry] units>"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "artillery"
+	},
+
 }
