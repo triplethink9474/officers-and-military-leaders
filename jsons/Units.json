@@ -11,7 +11,7 @@
 		"hurryCostModifier": 20
 	},
 {
-		"name": "feild officer",
+		"name": "field officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
 	"uniques": "[+15]% Strength bonus for [Melee] units within [1] tiles",
@@ -21,7 +21,7 @@
 {	"name": "cavalry officer",
 		"unitType": "Civilian",
 		"requiredTech": "Military Science",
-	"uniques": "[+15]% Strength bonus for [Mounted] units within [2] tiles",
+	"uniques": "[+15]% Strength bonus for [Mounted] units within [1] tiles",
 		"cost": 90
 		"movement": 4
 },
@@ -167,16 +167,18 @@
                 "upgradesTo": "Great War Infantry",
                 "attackSound": "shot"
         },
-	//FINISH ME
+
+//FINISH THIS
 {
 		"name": "Field Artillery",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Siege",
 		"movement": 2,
-		"strength": 60,
-		"rangedStrength": 90,
+		"strength": 10,
+		"rangedStrength": 40,
+	        "range": 3
 		"cost": 425,
-		"requiredTech": "Robotics",
-		"uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Infantry] units>"],
+		"requiredTech": "Dynamite",
+		"uniques": ["Never appears as a Barbarian unit",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	},
