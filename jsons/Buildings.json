@@ -24,10 +24,10 @@
 	},
 
 	{
-		"name": "draft levies",
+		"name": "Call Militiamen",
 		"Population": -1
 		"requiredTech": "Civil Service",
-		"uniques": ["Gain 3 free [Levies] [in this city]"],
+		"uniques": ["Gain 3 free [] [in this city]"],
 	},
 
 	{
