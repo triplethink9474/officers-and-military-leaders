@@ -180,5 +180,5 @@
 		"uniques": ["Never appears as a Barbarian unit",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
-},
-            
+      },
+	
