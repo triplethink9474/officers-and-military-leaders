@@ -1,6 +1,6 @@
 {
 {
-		"name": "tropican Settler (AKA the fact they can't train build cities)",
+		"name": "tropican Settler (AKA the fact they can't build cities)",
 		"unitType": "Civilian",
 	     "replaces": "Settler"
 	         "uniqueTo": "Tropico",
