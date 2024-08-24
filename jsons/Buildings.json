@@ -16,3 +16,9 @@
 	"uniques": ["Triggers the following global alert: [EL PRESIDENTE OF TROPICO IS THE BEST]"]
 	},
 
+	{
+		"name": "draft levies",
+		"Population": -1
+		"requiredTech": "Civil Service",
+		"uniques": ["Gain 3 free [levies] [in this city]"],
+	},
