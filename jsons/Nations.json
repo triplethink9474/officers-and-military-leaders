@@ -27,9 +27,3 @@
         "spyNames": ["Penultimo"]
     },
 
-	{
-		"name": "draft levies",
-		"Population": -1
-		"requiredTech": "Civil Service",
-		"uniques": ["Gain 3 free [levies] [in this city]"],
-	},
