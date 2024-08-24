@@ -73,6 +73,7 @@
   {      "name": "Levies",
         "unitType": "Sword",
 	"requiredTech": "Civil Service",
+	"attackSound": "metalhit"
 	"strength": 6
 	"cost": 1,
 	"movement": 1,
@@ -130,15 +131,27 @@
 	"cost": 200,
 	"uniques":  "Can transform to [nuclear silo]"
 },
-
 	{
-		"name": "Militiaman",
-		"unitType": "Militia",
-		"movement": 3,
+		"name": "Militiamen",
+		"unitType": "Gunpowder",
+		"movement": 2,
 		"strength": 15,
 		"cost": 40,
-		"requiredTech": "Printing Press",
-		"obsoleteTech": "Industrialization",
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Military Science",
 		"attackSound": "shot"
+		"uniques": "Consumes [1] [population]"
 	},
+{
+		"name": "conscripts",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 20,
+		"cost": 50,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Radio",
+		"attackSound": "shot"
+	"uniques": "Consumes [1] [population]"
+	},
+
 }
