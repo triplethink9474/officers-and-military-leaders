@@ -74,10 +74,10 @@
         "unitType": "Sword",
 	"requiredTech": "Civil Service",
 	"attackSound": "metalhit"
-	"strength": 6
+	"strength": 8
 	"cost": 5,
 	"movement": 1,
-	"uniques": "Consumes [1] [population]"
+	"uniques": ["Unbuildable"] ["Cannot be purchased"]
   },
 	{
 		"name": "Great War shock Infantry",
@@ -140,7 +140,7 @@
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Military Science",
 		"attackSound": "shot"
-		"uniques": "Consumes [1] [population]"
+		"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
 {
 		"name": "conscripts",
@@ -151,7 +151,20 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Radio",
 		"attackSound": "shot"
-	"uniques": "Consumes [1] [population]"
+	"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
 
+{
+                "name": "Redcoat",
+                "unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "England",
+                "movement": 3,
+                "strength": 38,
+                "cost": 240,
+                "requiredTech": "Rifling",
+                "obsoleteTech": "Replaceable Parts",
+                "upgradesTo": "Great War Infantry",
+                "attackSound": "shot"
+        },
 }
