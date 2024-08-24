@@ -26,3 +26,10 @@
 		"cities": ["tropico","El Presidenteville"],
         "spyNames": ["Penultimo"]
     },
+
+	{
+		"name": "draft levies",
+		"Population": -1
+		"requiredTech": "Writing",
+		"uniques": ["Gain 3 free [levies] [in this city]"],
+	},
