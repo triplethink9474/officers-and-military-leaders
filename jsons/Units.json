@@ -176,8 +176,8 @@
 	        "range": 3
 		"cost": 425,
 		"requiredTech": "Dynamite",
-		"uniques": ["Never appears as a Barbarian unit",
+		"uniques": "Never appears as a Barbarian unit",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
-		}
-		]
+},
+	]
