@@ -70,7 +70,7 @@
 	"cost": 60,
 	"uniques":  "Can instantly construct a [Canal] improvement"
 },
-  {      "name": "levy",
+  {      "name": "Levies",
         "unitType": "Sword",
 	"requiredTech": "Civil Service",
 	"strength": 6
@@ -131,4 +131,14 @@
 	"uniques":  "Can transform to [nuclear silo]"
 },
 
+	{
+		"name": "Militiaman",
+		"unitType": "Militia",
+		"movement": 3,
+		"strength": 15,
+		"cost": 40,
+		"requiredTech": "Printing Press",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "shot"
+	},
 }
