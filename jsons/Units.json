@@ -1,4 +1,4 @@
-{
+[
 {
 		"name": "tropican Settler (AKA the fact they can't build cities)",
 		"unitType": "Civilian",
@@ -180,5 +180,5 @@
 		"uniques": ["Never appears as a Barbarian unit",
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
-		}
-}
+		},
+		]
