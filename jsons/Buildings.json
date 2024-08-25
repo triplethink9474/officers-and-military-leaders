@@ -50,3 +50,10 @@
 		"requiredTech": "Combined Arms",
 		"uniques": ["Gain 3 free [Locals] [in this city]"],
 	},
+
+{
+		"name": "",
+		"Population": -1
+		"requiredTech": "Mathamatics",
+		"uniques": ["Gain 3 free [Locals] [in this city]"],
+	},
