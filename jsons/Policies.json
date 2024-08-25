@@ -25,79 +25,23 @@
             "Scientific": 5 }
       
         "uniques": ["[+1 Culture] [+1 Happiness] [in all cities]"],
+              "Only available <before adopting [consulate]>"
     },
         {
-        "name": "Honor",
+        "name": "consulate",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
+            "Diplomatic": 0,
+            "Domination": 10,
             "Scientific": 5
         },
         "uniques": [
-            "[+33]% Strength <vs [Barbarian] units>",
-            "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
-            "Notified of new Barbarian encampments"
-        ],
-        "policies": [
-            {
-                "name": "Warrior Code",
-                "uniques": [
-                    "[+15]% Production when constructing [Melee] units [in all cities]",
-                    "Free [Great General] appears"
-                ],
-                "row": 1,
-                "column": 2
-            },
-            {
-                "name": "Discipline",
-                "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
-                ],
-                "row": 1,
-                "column": 4
-            },
-            {
-                "name": "Military Tradition",
-                "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>"
-                ],
-                "requires": ["Warrior Code"],
-                "row": 2,
-                "column": 2
-            },
-            {
-                "name": "Military Caste",
-                "uniques": [
-                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]"
-                ],
-                "requires": ["Discipline"],
-                "row": 2,
-                "column": 4
-            },
-            {
-                "name": "Professional Army",
-                "uniques": [
-                    "[-33]% Gold cost of upgrading <for [Military] units>",
-                    "[+1 Happiness] from every [Walls]",
-                    "[+1 Happiness] from every [Castle]",
-                    "[+1 Happiness] from every [Arsenal]",
-                    "[+1 Happiness] from every [Military Base]"
-                ],
-                "requires": ["Military Caste"],
-                "row": 3,
-                "column": 4
-            },
-            {
-                "name": "Honor Complete",
-                "uniques": [
-                    "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
-                ]
-            }
-        ]
-    },
+            "Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]",
+            "Notified of new Barbarian encampments"],
+            "Only available <before adopting [Republic]>"
+      
     {
         "name": "Piety",
         "era": "Classical era",
