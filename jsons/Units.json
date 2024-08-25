@@ -249,7 +249,7 @@
 {
 		"name": "Supply convoy",
 		"unitType": "Civilian",
-		"movement": 4,
+		"movement": 2,
 		"uniques": ["All adjacent units heal [+7] HP when healing"],
 		"cost": 60,
 		"requiredTech": "Horseback Riding"
