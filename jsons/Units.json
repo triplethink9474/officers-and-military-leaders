@@ -153,11 +153,22 @@
 		"attackSound": "shot"
 	"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
+{
+		"name": "Draftees",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 27,
+		"cost": 5,
+		"requiredTech": "Radio",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "shot"
+	"uniques": ["Unbuildable"] ["Cannot be purchased"]
+	},
 
 {
 		"name": "Irregulars",
 		"unitType": "Militia",
-		"movement": 3,
+		"movement": 2,
 		"strength": 35,
 		"cost": 10,
 		"uniques": ["Unbuildable"] ["Cannot be purchased"],
