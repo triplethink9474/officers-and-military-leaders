@@ -143,12 +143,14 @@
 		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	},
+
 {	"name": "nuclear silo"
         "unitType": "Civilian",
         "movementType": "Land",
 	"movement": 0,
 	"uniques":  ["Can carry [3] [Missile] units"] ["Unbuildable"] ["Cannot be purchased"] ["Invisible to non-adjacent units"] ["Cannot move"]
 },	
+
 {	"name": "silo builder"
         "unitType": "Civilian",
         "movementType": "Land",
@@ -156,6 +158,7 @@
 	"cost": 200,
 	"uniques":  "Can transform to [nuclear silo]"
 },
+
 	{
 		"name": "Militiamen",
 		"unitType": "Gunpowder",
@@ -167,6 +170,7 @@
 		"attackSound": "shot"
 		"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
+
 {
 		"name": "conscripts",
 		"unitType": "Gunpowder",
@@ -178,6 +182,7 @@
 		"attackSound": "shot"
 	"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
+
 {
 		"name": "Draftees",
 		"unitType": "Gunpowder",
@@ -189,6 +194,7 @@
 		"attackSound": "shot"
 	"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
+
 {
 		"name": "Citizen Militia",
 		"unitType": "Militia",
@@ -225,6 +231,7 @@
                 "upgradesTo": "Great War Infantry",
                 "attackSound": "shot"
         },
+
 {
 		"name": "Field Artillery",
 		"unitType": "Siege",
@@ -238,6 +245,7 @@
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
 },
+
 {
 		"name": "Supply convoy",
 		"unitType": "Civilian",
@@ -247,7 +255,8 @@
 		"requiredTech": "Horseback Riding"
 	        "upgradesTo": "Medic",
 	},
-	{
+	
+{
 		"name": "Medic",
 		"unitType": "Civilian",
 		"movement": 2,
@@ -266,4 +275,5 @@
 		"cost": 450,
 		"requiredTech": "Pharmaceuticals"
 	},
+
 ]
