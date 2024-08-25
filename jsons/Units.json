@@ -180,4 +180,23 @@
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
 },
+	{
+		"name": "Medic",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["All adjacent units heal [+10] HP when healing"],
+		"cost": 275,
+		"requiredTech": "Biology",
+		"upgradesTo": "Supply Truck",
+		"obsoleteTech": "Pharmaceuticals"
+	},
+
+{
+		"name": "Supply Truck",
+		"unitType": "Civilian",
+		"movement": 4,
+		"uniques": ["All adjacent units heal [+15] HP when healing"],
+		"cost": 450,
+		"requiredTech": "Pharmaceuticals"
+	},
 ]
