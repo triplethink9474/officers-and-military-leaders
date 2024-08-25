@@ -101,7 +101,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Chemistry",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-50]% Strength <when defending>",
-		"Can only attack [City] units",],
+		"Can only attack [City] units"],
 		"attackSound": "throw"
 	},
 
@@ -113,7 +113,7 @@
 		"cost": 120,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
-		"uniques": ["[+150]% Strength <vs cities>", "No defensive terrain bonus", "Can only attack [City] units",],
+		"uniques": ["[+150]% Strength <vs cities>", "No defensive terrain bonus", "Can only attack [City] units"],
 		"attackSound": "throw"
 	},
 
