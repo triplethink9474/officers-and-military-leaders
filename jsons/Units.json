@@ -226,6 +226,15 @@
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery" 
 },
+{
+		"name": "Supply convoy",
+		"unitType": "Civilian",
+		"movement": 4,
+		"uniques": ["All adjacent units heal [+7] HP when healing"],
+		"cost": 60,
+		"requiredTech": "Horseback Riding"
+	        "upgradesTo": "Medic",
+	},
 	{
 		"name": "Medic",
 		"unitType": "Civilian",
