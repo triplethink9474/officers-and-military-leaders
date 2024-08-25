@@ -73,6 +73,7 @@
   {      "name": "Levies",
         "unitType": "Sword",
 	"requiredTech": "Civil Service",
+	"obsoleteTech": "Gunpowder",
 	"attackSound": "metalhit"
 	"strength": 8
 	"cost": 5,
