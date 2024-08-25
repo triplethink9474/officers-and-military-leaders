@@ -96,12 +96,12 @@
 		"name": "Siege Ram",
 		"unitType": "Sword", 
 		"movement": 2,
-		"strength": 14,
+		"strength": 15,
 		"cost": 75,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Chemistry",
-		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-50]% Strength <when defending>",
-		"Can only attack [City] units", "Never appears as a Barbarian unit"],
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-50]% Strength <when defending>",
+		"Can only attack [City] units",],
 		"attackSound": "throw"
 	},
 
@@ -113,7 +113,7 @@
 		"cost": 120,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
-		"uniques": ["[+100]% Strength <vs cities>", "No defensive terrain bonus", "Can only attack [City] units", "Never appears as a Barbarian unit"],
+		"uniques": ["[+150]% Strength <vs cities>", "No defensive terrain bonus", "Can only attack [City] units",],
 		"attackSound": "throw"
 	},
 
