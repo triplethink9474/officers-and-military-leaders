@@ -233,7 +233,7 @@
         },
 
 {
-		"name": "Field Artillery",
+		"name": "gas Artillery",
 		"unitType": "Siege",
 		"movement": 2,
 		"strength": 10,
