@@ -40,7 +40,7 @@
 	{
 		"name": "institute draft",
 		"Population": -1
-		"requiredTech": "Military Science",
+		"requiredTech": "Radio",
 		"uniques": ["Gain 3 free [Draftees] [in this city]"],
 	},
 
