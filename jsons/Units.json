@@ -166,8 +166,8 @@
 	},
 
 {
-		"name": "Irregulars",
-		"unitType": "Militia",
+		"name": "Locals",
+		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 35,
 		"cost": 10,
