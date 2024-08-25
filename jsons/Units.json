@@ -101,7 +101,19 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Chemistry",
 		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-50]% Strength <when defending>",
-		"Can only attack [City] units", "Never appears as a Barbarian unit", "[-1] Sight", "Ignores Zone of Control"],
+		"Can only attack [City] units", "Never appears as a Barbarian unit"],
+		"attackSound": "throw"
+	},
+
+       {
+		"name": "Siege Tower",
+		"unitType": "Sword", 
+		"movement": 2,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"uniques": ["[+100]% Strength <vs cities>", "No defensive terrain bonus", "Can only attack [City] units", "Never appears as a Barbarian unit"],
 		"attackSound": "throw"
 	},
 
