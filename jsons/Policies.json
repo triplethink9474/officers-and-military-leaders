@@ -22,10 +22,11 @@
             "Cultural": 5,
             "Diplomatic": 10,
             "Domination": 0,
-            "Scientific": 5
-        },
+            "Scientific": 5 }
+      
         "uniques": ["[+1 Culture] [+1 Happiness] [in all cities]"],
-    {
+    },
+        {
         "name": "Honor",
         "era": "Ancient era",
         "priorities": {
