@@ -52,8 +52,8 @@
 	},
 
 {
-		"name": "",
+		"name": "call up Citizen Militia",
 		"Population": -1
 		"requiredTech": "Mathamatics",
-		"uniques": ["Gain 3 free [Locals] [in this city]"],
+		"uniques": ["Gain 3 free [Citizen Militia] [in this city]"],
 	},
