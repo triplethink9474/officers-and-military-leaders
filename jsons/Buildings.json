@@ -26,7 +26,7 @@
 	{
 		"name": "Call Militiamen",
 		"Population": -1
-		"requiredTech": "Military Science",
+		"requiredTech": "Gunpowder",
 		"uniques": ["Gain 3 free [Militiamen] [in this city]"],
 	},
 
