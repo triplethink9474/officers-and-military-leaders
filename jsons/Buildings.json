@@ -17,7 +17,7 @@
 	},
 
 	{
-		"name": "draft levies",
+		"name": "call up levies",
 		"Population": -1
 		"requiredTech": "Civil Service",
 		"uniques": ["Gain 3 free [Levies] [in this city]"],
@@ -28,6 +28,20 @@
 		"Population": -1
 		"requiredTech": "Military Science",
 		"uniques": ["Gain 3 free [Militiamen] [in this city]"],
+	},
+
+	{
+		"name": "conscript conscripts",
+		"Population": -1
+		"requiredTech": "Military Science",
+		"uniques": ["Gain 3 free [conscripts] [in this city]"],
+	},
+
+	{
+		"name": "conscript conscripts",
+		"Population": -1
+		"requiredTech": "Military Science",
+		"uniques": ["Gain 3 free [conscripts] [in this city]"],
 	},
 
 	{
