@@ -92,6 +92,18 @@
 		"attackSound": "shot"
 		"uniques": ["All tiles cost 1 movement"] ["[+30]% to Flank Attack bonuses"] ["[1] additional attacks per turn"]
 	},
+	{
+		"name": "Siege Ram",
+		"unitType": "Sword", 
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Chemistry",
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-50]% Strength <when defending>",
+		"Can only attack [City] units", "Never appears as a Barbarian unit", "[-1] Sight", "Ignores Zone of Control"],
+		"attackSound": "throw"
+	},
 
 	{
 		"name": "Sturmtruppen",
