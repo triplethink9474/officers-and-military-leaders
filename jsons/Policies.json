@@ -10,7 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+3 Food] [in capital]",
+            "[+3 Food] [in all cities]",
             "[-25]% Culture cost of natural border growth [in all cities]"
         ],
     },
