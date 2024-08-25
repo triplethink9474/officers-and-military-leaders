@@ -164,6 +164,17 @@
 		"attackSound": "shot"
 	"uniques": ["Unbuildable"] ["Cannot be purchased"]
 	},
+{
+		"name": "Citizen Militia",
+		"unitType": "Militia",
+		"movement": 3,
+		"strength": 4,
+	        "cost": 5,
+                "uniques": ["Unbuildable"] ["Cannot be purchased"],
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Civil Service",
+		"attackSound": "nonmetalhit"
+	},
 
 {
 		"name": "Locals",
