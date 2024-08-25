@@ -47,6 +47,6 @@
 	{
 		"name": "call up Locals",
 		"Population": -1
-		"requiredTech": "Military Science",
-		"uniques": ["Gain 3 free [conscripts] [in this city]"],
+		"requiredTech": "Combined Arms",
+		"uniques": ["Gain 3 free [Locals] [in this city]"],
 	},
