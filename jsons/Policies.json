@@ -26,6 +26,7 @@
       
         "uniques": ["[+1 Culture] [+1 Happiness] [in all cities]"],
               "Only available <before adopting [consulate]>"
+              "Only available <before adopting [Monarchy]>"
     },
         {
         "name": "consulate",
@@ -41,6 +42,20 @@
             "Earn [50]% of killed [Barbarian] unit's [Strength] as [Culture]",
             "Notified of new Barbarian encampments"],
             "Only available <before adopting [Republic]>"
+              "Only available <before adopting [Monarchy]>"
+                    {
+        "name": "Monarchy",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 10,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [+5% gold]
+ "Only available <before adopting [Republic]>"
+"Only available <before adopting [consulate]>"
       
     {
         "name": "Piety",
