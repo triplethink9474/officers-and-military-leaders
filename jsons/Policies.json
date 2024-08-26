@@ -161,7 +161,7 @@
             "Diplomatic": 5,
             "Domination": 5,
             "Scientific": 5
-              "uniques":  "[+15]% [science] [-99999999 faith] [in all cities]",
+              "uniques":  "[+5]% [science] [-99999999 faith] [in all cities]",
 },
  
     {
@@ -248,7 +248,7 @@
             "uniques": "[-1] [food] [+15]% Production when constructing [All] [Melee units] [in all cities]",
 }, 
             
-                  }, 
+        {     
          "name": "professional army",
         "era": "Classical era",
         "priorities": {
@@ -260,71 +260,6 @@
             "uniques": "[-5]% [Gold] [+10]% Strength",
 }, 
     
-    {
-        "name": "Patronage",
-        "era": "Medieval era",
-        "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 10,
-            "Domination": 5,
-            "Scientific": 5
-        },
-        "uniques": ["[-25]% City-State Influence degradation"],
-        "policies": [
-            {
-                "name": "Philantropy",
-                "uniques": [
-                    "Gifts of Gold to City-States generate [25]% more Influence"
-                ],
-                "row": 1,
-                "column": 2
-            },
-            {
-                "name": "Aesthetics",
-                "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]"
-                ],
-                "row": 1,
-                "column": 4
-            },
-            {
-                "name": "Scholasticism",
-                "uniques": [
-                    "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
-                ],
-                "requires": ["Philantropy"],
-                "row": 2,
-                "column": 2
-            },
-            {
-                "name": "Cultural Diplomacy",
-                "uniques": [
-                    "[+100]% resources gifted by City-States",
-                    "[+50]% Happiness from luxury resources gifted by City-States"
-                ],
-                "requires": ["Scholasticism"],
-                "row": 3,
-                "column": 2
-            },
-            {
-                "name": "Educated Elite",
-                "requires": ["Scholasticism", "Aesthetics"],
-                "uniques": [
-                    "Allied City-States will occasionally gift Great People"
-                ],
-                "row": 3,
-                "column": 4
-            },
-            {
-                "name": "Patronage Complete",
-                "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [33]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
-                ]
-            }
-        ]
-    },
     {
         "name": "Commerce",
         "era": "Medieval era",
