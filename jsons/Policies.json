@@ -223,8 +223,8 @@
             "Domination": 15,
             "Scientific": 5
             "uniques": "[+10]% [Gold] [-1] [Happiness]",
-}, 
 
+        }, 
          "name": "bruh taxes",
         "era": "Classical era",
         "priorities": {
@@ -234,6 +234,30 @@
             "Domination": 3,
             "Scientific": 3
             "uniques": "[+35]% [Gold] [-10] [Happiness]",
+}, 
+
+          }, 
+         "name": "conscripts",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 3,
+            "Cultural": 3,
+            "Diplomatic": 3,
+            "Domination": 3,
+            "Scientific": 3
+            "uniques": "[-1] [food] [+15]% Production when constructing [All] [Melee units] [in all cities]",
+}, 
+            
+                  }, 
+         "name": "professional army",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 3,
+            "Cultural": 3,
+            "Diplomatic": 3,
+            "Domination": 3,
+            "Scientific": 3
+            "uniques": "[-5]% [Gold] [+10]% Strength"",
 }, 
     
     {
