@@ -264,13 +264,13 @@
         "name": "serfdom",
         "era": "Medieval era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Neutral": 20,
+            "Cultural": 20,
+            "Diplomatic": 20,
+            "Domination": 20,
+            "Scientific": 20,
               "uniques":  "[-25]% construction time for [All] improvements",
-              "Free [Citizen Militia] appears"
+              "Free [Levies] appears"
 },
     
 
