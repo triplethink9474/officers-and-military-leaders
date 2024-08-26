@@ -243,7 +243,7 @@
             "Neutral": 3,
             "Cultural": 3,
             "Diplomatic": 3,
-            "Domination": 3,
+            "Domination": 10,
             "Scientific": 3
             "uniques": "[-1] [food] [+15]% Production when constructing [All] [Melee units] [in all cities]",
 }, 
@@ -253,10 +253,10 @@
         "era": "Classical era",
         "priorities": {
             "Neutral": 3,
-            "Cultural": 3,
-            "Diplomatic": 3,
+            "Cultural": 5,
+            "Diplomatic": 10,
             "Domination": 3,
-            "Scientific": 3
+            "Scientific": 10,
             "uniques": "[-5]% [Gold] [+10]% Strength",
 }, 
     
