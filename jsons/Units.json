@@ -292,7 +292,7 @@
 		"name": "consul",
 		"unitType": "Civilian",
 		"movement": 2,
-		"strength": 30,
+		"strength": 25,
 		"cost": 1,
 		"requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
