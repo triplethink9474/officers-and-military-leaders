@@ -295,7 +295,8 @@
             "Diplomatic": 15,
             "Domination": 2,
             "Scientific": 5,
-              "uniques":  "["[+15]% growth [in all cities] <when not at war>"]
+              "uniques": ["Religion naturally spreads to cities [+4] tiles away"]
+            ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
             ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
 },
             
