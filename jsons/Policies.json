@@ -299,7 +299,23 @@
             ["[Faith] cost of purchasing [Missionary] units [-30]%"]
             ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
 },
-            
+
+{
+        "name": "middle ages absolute Monarchy",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 10,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques":"[+10 gold] [+10 production] [in capital]",
+ "Only available <after adopting [Republic]>"
+"Only available <after adopting [consulate]>"
+"Only available <after adopting [Monarchy]>"
+
+
     {
         "name": "Rationalism",
         "era": "Renaissance era",
