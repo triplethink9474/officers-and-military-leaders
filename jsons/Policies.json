@@ -260,7 +260,7 @@
             "uniques": "[-2 [Gold] New [Military] units start with [15] Experience [in all cities]",
 }, 
 
-                      {
+    {
         "name": "serfdom",
         "era": "Medieval era",
         "priorities": {
@@ -272,8 +272,33 @@
               "uniques":  "[-25]% construction time for [All] improvements",
               "Free [Levies] appears"
 },
-    
 
+              {
+        "name": "spread religion by force",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 2,
+            "Domination": 15,
+            "Scientific": 5,
+              "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Faith]"]
+            ["May buy [{Military} {Land}] units with [Faith] for [1] times their normal Production cost <before the [Industrial era]>"]
+},
+
+                     {
+        "name": "spread religion by peace",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 25,
+            "Diplomatic": 15,
+            "Domination": 2,
+            "Scientific": 5,
+              "uniques":  "["[+15]% growth [in all cities] <when not at war>"]
+            ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
+},
+            
     {
         "name": "Rationalism",
         "era": "Renaissance era",
