@@ -177,6 +177,18 @@
                           "Only available <after adopting [Monarchy]>"
 },
 
+      {
+        "name": "no taxes",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0,
+            "uniques": "[-5]% [Gold] [+15] [Happiness]",
+},
+
   {
         "name": "low taxes",
         "era": "Classical era",
