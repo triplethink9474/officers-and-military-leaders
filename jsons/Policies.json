@@ -326,6 +326,18 @@
             "Scientific": 5
         },
         "uniques":"[+30 science] [in capital]",  "Only available <after adopting [Freedom of religion]>"
+
+            {
+        "name": "mass print bibles",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques":"[+30 Faith] [in capital]", "Only available <before adopting [Secularism]>"
              
     {
         "name": "Rationalism",
