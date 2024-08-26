@@ -338,6 +338,36 @@
             "Scientific": 5
         },
         "uniques":"[+30 Faith] [in capital]", "Only available <before adopting [Secularism]>"
+
+                
+            {
+        "name": "Humanism",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+       "uniques": [
+                    "[+1 Happiness] from every [University]",
+                    "[+1 Happiness] from every [Observatory]",
+                    "[+1 Happiness] from every [Public School]"
+                ],
+    },
+
+                    {
+        "name": "Free Thought",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+       "uniques": [ "[+1 Science] from every [Trading post]",
+                    "[+17]% [Science] from every [University]"
+           },  
              
     {
         "name": "Rationalism",
