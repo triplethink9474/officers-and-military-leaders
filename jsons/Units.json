@@ -276,4 +276,15 @@
 		"requiredTech": "Pharmaceuticals"
 	},
 
+{
+		"name": "the king",
+		"unitType": "Civilian",
+		"movement": 2,
+		"strength": 30,
+		"cost": 1,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	        "uniques": ["All adjacent units heal [+10] HP when healing"],"Limited to [1] per Civilization" "Only available <after adopting []>" 
+	},
 ]
