@@ -228,11 +228,11 @@
          "name": "bruh taxes",
         "era": "Classical era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 15,
-            "Scientific": 5
+            "Neutral": 3,
+            "Cultural": 3,
+            "Diplomatic": 3,
+            "Domination": 3,
+            "Scientific": 3
             "uniques": "[+35]% [Gold] [-10] [Happiness]",
 }, 
     
