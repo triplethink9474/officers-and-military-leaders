@@ -68,7 +68,7 @@
                "uniques":"[-3 happiness] [-1 food] [+8 production] [in all cities]",
         },
     
-           "name": "Citizenship",
+           "name": "selective Citizenship",
         "era": "Classical era",
         "priorities": {
             "Neutral": 5,
@@ -76,7 +76,18 @@
             "Diplomatic": 5,
             "Domination": 5,
             "Scientific": 5
-            "uniques":"[+5 happiness] [-1 food] [in all cities]",
+            "uniques":"[+5 happiness] [+2 production] [-1 food] [in all cities]",
+        },
+
+      "name": "universal Citizenship",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+            "uniques":"[+1 happiness] [+1 food] [in all cities]",
         },
 
     {
