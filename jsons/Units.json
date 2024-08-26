@@ -287,4 +287,17 @@
 		"attackSound": "metalhit"
 	        "uniques": ["All adjacent units heal [+10] HP when healing"],"Limited to [1] per Civilization" "Only available <after adopting [middle ages absolute Monarchy]>" "[+20]% Strength bonus for [Sword] units within [3] tiles" 
 	},
+
+{
+		"name": "consul",
+		"unitType": "Civilian",
+		"movement": 2,
+		"strength": 30,
+		"cost": 1,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	        "uniques": ["All adjacent units heal [+5] HP when healing"],"Limited to [2] per Civilization" "Only available <after adopting [middle ages absolute Monarchy]>" "[+10]% Strength bonus for [Sword] units within [3] tiles" 
+	},
+
 ]
