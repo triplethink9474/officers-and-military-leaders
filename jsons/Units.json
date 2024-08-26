@@ -297,7 +297,7 @@
 		"requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
-	        "uniques": ["All adjacent units heal [+5] HP when healing"],"Limited to [2] per Civilization" "Only available <after adopting [middle ages absolute Monarchy]>" "[+10]% Strength bonus for [Sword] units within [3] tiles" 
+	        "uniques": ["All adjacent units heal [+5] HP when healing"],"Limited to [2] per Civilization" "Only available <after adopting [consulate]>" "[+10]% Strength bonus for [Sword] units within [3] tiles" 
 	},
 
 ]
