@@ -379,73 +379,19 @@
             "Scientific": 5
     "uniques": ["Science gained from research agreements [+50]%"],
 
+
+
+
+
+
+
+
+
+
+
             
-    {
-        "name": "Rationalism",
-        "era": "Renaissance era",
-        "priorities": {
-            "Neutral": 10,
-            "Cultural": 10,
-            "Diplomatic": 10,
-            "Domination": 10,
-            "Scientific": 10
-        },
-        "uniques": [
-            "[+15]% [Science] <while the empire is happy>",
-            "Only available <before adopting [Piety]>"
-        ],
-        "policies": [
-            {
-                "name": "Secularism",
-                "uniques": [
-                    "[+2 Science] from every specialist [in all cities]"
-                ],
-                "row": 1,
-                "column": 2
-            },
-            {
-                "name": "Humanism",
-                "uniques": [
-                    "[+1 Happiness] from every [University]",
-                    "[+1 Happiness] from every [Observatory]",
-                    "[+1 Happiness] from every [Public School]"
-                ],
-                "row": 1,
-                "column": 4
-            },
-            {
-                "name": "Free Thought",
-                "uniques": [
-                    "[+1 Science] from every [Trading post]",
-                    "[+17]% [Science] from every [University]"
-                ],
-                "requires": ["Secularism"],
-                "row": 2,
-                "column": 2
-            },
-            {
-                "name": "Sovereignty",
-                "uniques": ["[+1 Gold] from all [Science] buildings"],
-                "requires": ["Humanism"],
-                "row": 2,
-                "column": 4
-            },
-            {
-                "name": "Scientific Revolution",
-                "uniques": ["Science gained from research agreements [+50]%"],
-                "requires": ["Free Thought"],
-                "row": 3,
-                "column": 2
-            },
-            {
-                "name": "Rationalism Complete",
-                "uniques": [
-                    "[2] Free Technologies",
-                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
-                ]
-            }
-        ]
-    },
+            
+   
     {
         "name": "Freedom",
         "era": "Industrial era",
