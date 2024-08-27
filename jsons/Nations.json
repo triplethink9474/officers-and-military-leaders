@@ -27,3 +27,32 @@
         "spyNames": ["Penultimo"]
     },
 
+	{
+		"name": "bunny army",
+		"leaderName": "sigma rizzler",
+		"adjective": ["bunny"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "good luck",
+        "startIntroPart2": "",
+
+        "declaringWar": "gg your cooked",
+		"attacked": "GG your cooked",
+		"defeated": "man im dead",
+		"introduction": "Welcome.",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "el presidente has offered you this exceptional proposition.",
+		"uniques" ["[+35]% Production when constructing [All] wonders [in all cities]"],
+"cities": ["Tropico","Other Tropico","Other other Tropico","Other Other Other Tropico"],
+		
+/////+2 food all cities, pop growth on top of food, faster civics
+      
+		"outerColor": [ 38, 98, 255],
+        "innerColor": [239,236,148],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Tropican pride",
+		"cities": ["tropico","El Presidenteville"],
+        "spyNames": ["burrows,"]
+    },
