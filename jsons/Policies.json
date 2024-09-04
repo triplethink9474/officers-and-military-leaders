@@ -206,7 +206,7 @@
             "Diplomatic": 5,
             "Domination": 5,
             "Scientific": 5
-            "uniques": "[-1]% [Gold] [+10] [Happiness] [in all cities]",
+            "uniques": "[+10] [Happiness] [in all cities]",
 },
 
   {
@@ -303,9 +303,7 @@
             "Diplomatic": 15,
             "Domination": 2,
             "Scientific": 5,
-              "uniques": ["Religion naturally spreads to cities [+4] tiles away"]
-            ["[Faith] cost of purchasing [Missionary] units [-30]%"]
-            ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
+              "uniques":  ["[Faith] cost of purchasing [Missionary] units [-75]%"]
 },
 
 {
@@ -332,8 +330,10 @@
             "Diplomatic": 5,
             "Domination": 5,
             "Scientific": 5
+                "uniques":"[+25 science] [in capital]", "Only available <after adopting [Freedom of religion]>"
+
         },
-        "uniques":"[+30 science] [in capital]",  "Only available <after adopting [Freedom of religion]>"
+
 
             {
         "name": "mass print bibles",
@@ -344,8 +344,9 @@
             "Diplomatic": 5,
             "Domination": 5,
             "Scientific": 5
+                "uniques":"[+25 Faith] [in capital]", "Only available <before adopting [Secularism]>"
         },
-        "uniques":"[+30 Faith] [in capital]", "Only available <before adopting [Secularism]>"
+    
 
                 
             {
