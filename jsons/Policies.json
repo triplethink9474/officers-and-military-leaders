@@ -77,6 +77,7 @@
             "Domination": 5,
             "Scientific": 5
             "uniques":"[+5 happiness] [+2 production] [-1 food] [in all cities]",
+            "Only available <before adopting [universal Citizenship]>"
         },
 
       "name": "universal Citizenship",
@@ -88,6 +89,7 @@
             "Domination": 5,
             "Scientific": 5
             "uniques":"[+1 happiness] [+2 gold] [+1 food] [in all cities]",
+            "Only available <before adopting [selective Citizenship]>"
         },
 
     {
@@ -138,6 +140,8 @@
             "Domination": 5,
             "Scientific": 5
               "uniques":  "[+5 food] [in all cities]",
+            "Only available <before adopting [State religion]>"
+              "Only available <before adopting [no religion]>"
 },
 
       {
@@ -150,6 +154,8 @@
             "Domination": 5,
             "Scientific": 5
               "uniques":  "Gain enough Faith for [100]% of a Great Prophet",
+            "Only available <before adopting [Freedom of religion]>"
+            "Only available <before adopting [no religion]>"
 },
 
       {
@@ -162,6 +168,8 @@
             "Domination": 5,
             "Scientific": 5
               "uniques":  "[+5]% [science] [-99999999 faith] [in all cities]",
+                "Only available <before adopting [Freedom of religion]>"
+             "Only available <before adopting [State religion]>"
 },
  
     {
