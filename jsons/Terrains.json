@@ -116,7 +116,7 @@
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"],
         "civilopediaText": [
-            {"text": "Lakes provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Oases)."},
+            {"text": "Lakes provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Oasis)."},
             {"text": "Rivers", "link":"Terrain/River"},
             {"text": "Oasis", "link":"Terrain/Oasis"},
             {"text": "Farm", "link":"Improvement/Farm"},
