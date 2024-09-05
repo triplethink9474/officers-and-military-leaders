@@ -194,7 +194,7 @@
             "Diplomatic": 0,
             "Domination": 0,
             "Scientific": 0,
-            "uniques": "[-5]% [Gold] [+15] [Happiness] [in all cities]",
+            "uniques": "[-5]% [Gold] [+15] [Happiness] [in capital]",
 },
 
   {
@@ -206,7 +206,7 @@
             "Diplomatic": 5,
             "Domination": 5,
             "Scientific": 5
-            "uniques": "[+10] [Happiness] [in all cities]",
+            "uniques": "[+10] [Happiness] [in capital]",
 },
 
   {
@@ -218,7 +218,7 @@
             "Diplomatic": 15,
             "Domination": 5,
             "Scientific": 5
-            "uniques": "[+5]% [Gold] [+5] [Happiness] [in all cities]",
+            "uniques": "[+5]% [Gold] [in capital]",
 },
 
      {
@@ -230,7 +230,7 @@
             "Diplomatic": 5,
             "Domination": 15,
             "Scientific": 5
-            "uniques": "[+10]% [Gold] [-1] [Happiness] [in all cities]",
+            "uniques": "[+10]% [Gold] [-1] [Happiness] [in capital]",
 
         }, 
          "name": "bruh taxes",
@@ -241,7 +241,7 @@
             "Diplomatic": 3,
             "Domination": 3,
             "Scientific": 3
-            "uniques": "[+25]% [Gold] [-10] [Happiness] [in all cities]",
+            "uniques": "[+25]% [Gold] [-10] [Happiness] [in capital]",
 }, 
 
           }, 
