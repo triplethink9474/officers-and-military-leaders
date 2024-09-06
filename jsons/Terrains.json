@@ -589,6 +589,7 @@
 		"name": "Canal",
 		"type": "Water",
 		"gold": 1,
+		"RGB": [0, 171, 169],
 		"uniques": [
 			"Fresh water",
 			"Doesn't generate naturally"]
